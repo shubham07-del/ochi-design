@@ -34,7 +34,7 @@ const Hero = () => {
                     />
                   </motion.div>
                 )}
-                <h1 className="hero-text text-[11vw] sm:text-[8.5vw] md:text-[6.5vw] leading-none font-semibold">
+                <h1 className="hero-text text-[11vw] bg-transparent sm:text-[8.5vw] md:text-[6.5vw] leading-none font-semibold">
                   {elem}
                 </h1>
               </div>
